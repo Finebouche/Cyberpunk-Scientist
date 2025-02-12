@@ -25,8 +25,6 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
   Visualize the academic landscape and explore the connections between influential research papers.  
 - **[Semantic Scholar](https://www.semanticscholar.org/)**  
   AI-driven search engine for academic research, with citation-based insights.  
-- **[ResearchRabbit](https://www.researchrabbit.ai/)**  
-  A research discovery tool that builds personalized paper recommendation graphs.  
 - **[Litmaps](https://www.litmaps.com/)**  
   Track and visualize citation networks to explore related research.  
 - **[Paperpile](https://paperpile.com/)**  
