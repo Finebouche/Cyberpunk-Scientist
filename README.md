@@ -13,12 +13,6 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 
 ---
 
-## Introduction
-
-This project gathers AI tools and resources for the modern cyberpunk-scientist.
-
----
-
 ## AI Tools for Scientific Work
 
 ### Brainstorming
