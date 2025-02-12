@@ -30,17 +30,16 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 - **[Litmaps](https://www.litmaps.com/)**  
   Track and visualize citation networks to explore related research.  
 - **[Paperpile](https://paperpile.com/)**  
-  Reference management with AI-powered organization.  
+  Reference management with AI-powered organization.
+- **[SciSpace Copilot](https://typeset.io/)**  
+AI-powered assistant for understanding and summarizing scientific papers.  
 
 ### Writing  
-- **[SciSpace Copilot](https://typeset.io/)**  
-  AI-powered assistant for understanding and summarizing scientific papers.  
+
 - **[Hemingway Editor](https://hemingwayapp.com/)**  
   Improves readability and clarity in academic writing.  
 - **[Grammarly](https://www.grammarly.com/)**  
   AI-based grammar and style checker.  
-- **[Trinka AI](https://www.trinka.ai/)**  
-  AI for academic writing, focusing on tone, grammar, and technical correctness.  
 
 
 ---
