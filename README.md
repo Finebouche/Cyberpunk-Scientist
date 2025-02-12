@@ -5,12 +5,6 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 
 ---
 
-## Table of Contents
-
-- [Brainstorming](#brainstorming)
-- [Publication Tools](#literature--publication-tools)
-- [Writing](#writing)
----
 
 
 ### Brainstorming  
