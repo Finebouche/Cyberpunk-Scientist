@@ -8,9 +8,6 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 
 - [AI Tools for Scientific Work](#ai-tools-for-scientific-work)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## AI Tools for Scientific Work
