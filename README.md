@@ -2,6 +2,7 @@
 
 Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and resources for the modern cyberpunk-scientist.  
 
+
 ---
 
 ## Table of Contents
@@ -30,8 +31,13 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 - **[Paperpile](https://paperpile.com/)**  
   Reference management with AI-powered organization.
 - **[SciSpace Copilot](https://typeset.io/)**  
-AI-powered assistant for understanding and summarizing scientific papers.  
+AI-powered assistant for understanding and summarizing scientific papers.
 
+### Experiment
+
+- **[Aider](https://aider.chat/)**  
+ 
+  
 ### Writing  
 
 - **[Hemingway Editor](https://hemingwayapp.com/)**  
