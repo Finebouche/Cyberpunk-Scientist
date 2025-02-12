@@ -14,14 +14,14 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 
 ### Brainstorming
 
-- **[Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)**  
-  Navigate the endless stream of preprints with curated recommendations that keep you ahead of the curve.
+- **[Has Anyone](https://hasanyone.com/)**  
+  Useful to make sure you're not doing work in vain lol
 
 
 ### Research & Publication Tools
 
-- **[Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)**  
-  Navigate the endless stream of preprints with curated recommendations that keep you ahead of the curve.
+- **[Scite](https://scite.ai/)**  
+  search the literature
 
 - **[Connected Papers](https://www.connectedpapers.com/)**  
   Visualize the academic landscape and explore the connections between influential research papers.
