@@ -14,16 +14,16 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
   AI-powered research assistant for generating ideas and synthesizing papers.  
 
 ### Literature & Publication Tools  
+#### Search tools
 - **[Scite](https://scite.ai/)**  
-  Search the literature.  
-- **[Connected Papers](https://www.connectedpapers.com/)**  
-  Visualize the academic landscape and explore the connections between influential research papers.  
 - **[Semantic Scholar](https://www.semanticscholar.org/)**  
-  AI-driven search engine for academic research, with citation-based insights.  
-- **[Litmaps](https://www.litmaps.com/)**  
-  Track and visualize citation networks to explore related research.  
+#### Maps
+- **[Connected Papers](https://www.connectedpapers.com/)**  
+- **[Litmaps](https://www.litmaps.com/)**
+#### References
 - **[Paperpile](https://paperpile.com/)**  
   Reference management with AI-powered organization.
+#### Reading
 - **[SciSpace Copilot](https://typeset.io/)**  
 AI-powered assistant for understanding and summarizing scientific papers.
 
