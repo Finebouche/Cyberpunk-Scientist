@@ -16,7 +16,8 @@ Welcome researcher, the **CyberPunk Scientist Project**— gathers AI tools and 
 ### Literature & Publication Tools  
 #### Search tools
 - **[Scite](https://scite.ai/)**  
-- **[Semantic Scholar](https://www.semanticscholar.org/)**  
+- **[Semantic Scholar](https://www.semanticscholar.org/)**
+- **[PaperFinder](https://paperfinder.allen.ai/)**
 #### Maps
 - **[Connected Papers](https://www.connectedpapers.com/)**  
 - **[Litmaps](https://www.litmaps.com/)**
